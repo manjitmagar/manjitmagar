@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjitmagar&label=Profile%20views&color=0e75b6&style=flat" alt="manjitmagar" /> </p>
 
-- 🌱 I’m currently learning **Node.js, python**
+- 🌱 I’m currently learning **Node.js, python with AI**, IoT Projects**
 
 - 📫 How to reach me **manjitpun2058@gmail.com**
 
